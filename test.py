@@ -1,3 +1,3 @@
 a = 0
-b=0 
+del a 
 # it does nothing
